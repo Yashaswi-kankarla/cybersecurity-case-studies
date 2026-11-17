@@ -7,6 +7,20 @@ A collection of technical case studies documenting practical investigations in c
 ![Splunk](https://img.shields.io/badge/Tool-Splunk-green)
 ![Python](https://img.shields.io/badge/Language-Python-yellow)
 
+## Case Studies
+
+| Case Study | Description |
+|------------|-------------|
+| Malware Analysis | Static and dynamic malware investigation |
+| Log Analysis | Incident investigation using Splunk |
+| Audio Denoising & Transcription | Speech recovery and audio intelligence |
+
+### Branches
+
+- `malware-analysis`
+- `log-analysis`
+- `audio-denoising-transcription`
+
 ## Repository Overview
 
 This repository contains three independent case studies:
