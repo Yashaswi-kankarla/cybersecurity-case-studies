@@ -2,6 +2,11 @@
 
 A collection of technical case studies documenting practical investigations in cybersecurity, digital forensics, threat analysis, and information extraction. These projects demonstrate structured analytical workflows, technical reporting, and problem-solving across multiple domains.
 
+![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-blue)
+![Threat Analysis](https://img.shields.io/badge/Focus-Threat%20Analysis-red)
+![Splunk](https://img.shields.io/badge/Tool-Splunk-green)
+![Python](https://img.shields.io/badge/Language-Python-yellow)
+
 ## Repository Overview
 
 This repository contains three independent case studies:
