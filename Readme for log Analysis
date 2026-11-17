@@ -1,27 +1,32 @@
-Security Log Analysis Case Study
+
+## Security Log Analysis Case Study
+
 Conducted a structured forensic investigation using Splunk to identify compromised endpoints, reconstruct the attack timeline, and determine the initial infection vector.
 
-Key Activities
-Verified log integrity before analysis.
-Ingested and correlated multiple log sources in Splunk.
-Filtered and investigated suspicious security events.
-Ranked endpoints using severity-based scoring.
-Reconstructed the infection timeline through event correlation.
-Identified the likely patient zero and attack progression.
-Determined the initial compromise vector and subsequent command-and-control activity.
-Recommended containment and remediation actions.
-Skills Demonstrated
-Log Analysis
-Threat Hunting
-Incident Investigation
-Timeline Reconstruction
-Splunk
-Security Information and Event Management (SIEM)
-Digital Forensics
-Technical Reporting
-Key Outcomes
-Correlated security events across multiple endpoints.
-Identified compromised systems and attack sequence.
-Distinguished initial infection activity from later-stage malicious communications.
-Produced a structured incident report with evidence-based findings and remediation recommendations.
-🔗 View the full report in the log-analysis branch.
+### Key Activities
+- Verified log integrity before analysis.
+- Ingested and correlated multiple log sources in Splunk.
+- Filtered and investigated suspicious security events.
+- Ranked endpoints using severity-based scoring.
+- Reconstructed the infection timeline through event correlation.
+- Identified the likely patient zero and attack progression.
+- Determined the initial compromise vector and subsequent command-and-control activity.
+- Recommended containment and remediation actions.
+
+### Skills Demonstrated
+- Log Analysis
+- Threat Hunting
+- Incident Investigation
+- Timeline Reconstruction
+- Splunk
+- Security Information and Event Management (SIEM)
+- Digital Forensics
+- Technical Reporting
+
+### Key Outcomes
+- Correlated security events across multiple endpoints.
+- Identified compromised systems and attack sequence.
+- Distinguished initial infection activity from later-stage malicious communications.
+- Produced a structured incident report with evidence-based findings and remediation recommendations.
+
+🔗 View the full report in the `log-analysis` branch.
